@@ -100,3 +100,18 @@ li a:hover{
    margin: 20px;
    padding: 10px;
 }
+.rodape{
+   position: absolute;
+   bottom: 0;
+   background: #FFFFFF;
+   color: black;
+   width: 100%;
+   left: 0;
+   height: 40px;
+   display: flex;
+   font-size: 18px;
+}
+.conteudo{
+   position: absolute;
+   top: 45px;
+}
